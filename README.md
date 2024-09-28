@@ -114,8 +114,8 @@ end
 <hr>
 <h2>Program:</h2>
 ```
-import time
 
+import time
 class Game:
     def __init__(self):
         self.initialize_game()
@@ -273,7 +273,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    ```
+ ```
  <h2>OUTPUT:</h2>  
  ![image](https://github.com/user-attachments/assets/6dd6b9ae-7e02-40c4-a39c-5e2495fa44b3)
 
